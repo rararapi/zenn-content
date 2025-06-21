@@ -1,2 +1,3 @@
-# zenn-content
-zennの記事連携
+# Zenn CLI
+
+* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
